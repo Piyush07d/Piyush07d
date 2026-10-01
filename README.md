@@ -2,7 +2,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="243" src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif"  />
+  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif"  />
 </div>
 
 ###
@@ -35,18 +35,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">📲 Contact links</h3>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ---
