@@ -15,11 +15,11 @@
 
 <h3 data-importer="text" align="left">🧑🏻‍💻  About Me</h3>
 
-###
 
-<p data-importer="text" align="left">- 📜 Computer Engineering Student<br><br>- 🎨 Passionate about creating clean and minimal designs.<br><br>- 🧑🏻‍💻 Enhancing my skills in frontend design and development.</p>
+- 📜 Computer Engineering Student.
+- 🎨 Passionate about creating clean, minimal and damn good UIs.
+- 🧑🏻‍💻 Enhancing my skills in frontend design and development.
 
-###
 
 <h3 data-importer="text" align="left">🛠 Language & Tools, I've placed my hands on</h3>
 
