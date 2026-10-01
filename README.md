@@ -22,7 +22,7 @@
 
 🧑🏻‍💻 Enhancing my skills in frontend design and development.
 
-🧠 I’m constantly learning, experimenting, and building things that make me curious.
+🧠 I’m constantly learning, experimenting, and building things that <br> make me curious.
 
 ### 🛠 Language & Tools, I've placed my hands on
 
