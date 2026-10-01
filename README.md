@@ -7,7 +7,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&vCenter=true&width=800&height=60&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Piyush;Computer+Engineering+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hey!+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Piyush;Computer+Engineering+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 ---
 
