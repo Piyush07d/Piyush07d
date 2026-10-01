@@ -11,13 +11,13 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="200" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="260" align="right">
 
 <h3 data-importer="text" align="left">🧑🏻‍💻  About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">- 📜 Currently pursuing Bachelor of Engineering degree in Computer Engineering<br><br>- 🎨 Passionate about creating clean and minimal designs.<br><br>- 🧑🏻‍💻 Enhancing my skills in frontend design and development.</p>
+<p data-importer="text" align="left">- 📜 Computer Engineering Student<br><br>- 🎨 Passionate about creating clean and minimal designs.<br><br>- 🧑🏻‍💻 Enhancing my skills in frontend design and development.</p>
 
 ###
 
