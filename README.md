@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="260" align="right">
 
-<h3 data-importer="text" align="left">🧑🏻‍💻  About Me</h3>
+<h2 data-importer="text" align="left">🧑🏻‍💻  About Me</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language & Tools, I've placed my hands on</h3>
+<h2 data-importer="text" align="left">🛠 Language & Tools, I've placed my hands on</h3>
 
 ###
 
