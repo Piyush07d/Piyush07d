@@ -11,19 +11,20 @@
 
 ---
 
+## 📌 About me
+
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="260" align="right">
 
-<h3 data-importer="text" align="left">🧑🏻‍💻  About Me</h3>
 
+📜 Pursuing a Bachelor of Engineering degree in CE.
 
-- 📜 Computer Engineering Student.
-- 🎨 Passionate about creating clean, minimal and damn good UIs.
-- 🧑🏻‍💻 Enhancing my skills in frontend design and development.
+🎨 Passionate about creating clean, minimal and damn good UIs.
 
+🧑🏻‍💻 Enhancing my skills in frontend design and development.
 
-<h3 data-importer="text" align="left">🛠 Language & Tools, I've placed my hands on</h3>
+🧠 I’m constantly learning, experimenting, and building things that make me curious.
 
-###
+### 🛠 Language & Tools, I've placed my hands on
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
